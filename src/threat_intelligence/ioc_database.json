@@ -1,0 +1,43 @@
+[
+    {
+        "type": "process",
+        "value": "mimikatz.exe",
+        "severity": "CRITICAL"
+    },
+
+    {
+        "type": "process",
+        "value": "meterpreter.exe",
+        "severity": "CRITICAL"
+    },
+
+    {
+        "type": "process",
+        "value": "ncat.exe",
+        "severity": "HIGH"
+    },
+
+    {
+        "type": "process",
+        "value": "netcat.exe",
+        "severity": "HIGH"
+    },
+
+    {
+        "type": "process",
+        "value": "keylogger.exe",
+        "severity": "CRITICAL"
+    },
+
+    {
+        "type": "process",
+        "value": "stealer.exe",
+        "severity": "CRITICAL"
+    },
+
+    {
+        "type": "process",
+        "value": "rat.exe",
+        "severity": "CRITICAL"
+    }
+]

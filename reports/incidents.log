@@ -1,0 +1,42 @@
+
+==================================================
+Time: 2026-06-06 08:24:59
+Process: SpotifyLauncher.exe
+PID: 18664
+Threat Score: 0.0
+Action: QUARANTINED
+
+==================================================
+Time: 2026-06-06 08:39:34
+Process: Spotify.exe
+PID: 18276
+Threat Score: 20.0
+Action: QUARANTINED
+
+==================================================
+Time: 2026-06-06 08:45:49
+Process: Spotify.exe
+PID: 16852
+Threat Score: 0.0
+Action: QUARANTINED
+
+==================================================
+Time: 2026-06-06 08:49:09
+Process: Spotify.exe
+PID: 15776
+Threat Score: 0.0
+Action: QUARANTINED
+
+==================================================
+Time: 2026-06-06 08:49:47
+Process: uTorrent.exe
+PID: 21680
+Threat Score: 20.0
+Action: QUARANTINED
+
+==================================================
+Time: 2026-06-06 08:49:56
+Process: Spotify.exe
+PID: 24564
+Threat Score: 0.0
+Action: QUARANTINED
